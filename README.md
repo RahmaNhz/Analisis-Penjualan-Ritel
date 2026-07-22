@@ -141,7 +141,7 @@ Dataset mencakup informasi mengenai:
 > Tambahkan screenshot dashboard di bawah ini.
 
 ```
-<img src="images/dashboard.png" width="100%">
+<img src="images/dashboard.jpg" width="100%">
 ```
 
 atau cukup drag & drop gambar dashboard ke README GitHub.
