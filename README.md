@@ -1,3 +1,4 @@
+<img width="1650" height="916" alt="dashboard" src="https://github.com/user-attachments/assets/589fb0d7-da35-4421-9ef9-fcc17b621016" />
 # 📊 Dashboard Analisis Penjualan Ritel
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
