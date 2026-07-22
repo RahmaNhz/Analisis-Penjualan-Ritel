@@ -199,9 +199,8 @@ Dashboard berhasil dikembangkan menggunakan Power BI dengan fitur:
 
 **Rahma Nurhaliza**
 
-Fresh Graduate Teknik Informatika
+S1 Teknik Informatika
 
 ```
 
----
 
