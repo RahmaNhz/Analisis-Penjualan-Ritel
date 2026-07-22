@@ -137,18 +137,6 @@ Dataset mencakup informasi mengenai:
 
 ---
 
-# 🖼 Dashboard
-
-> Tambahkan screenshot dashboard di bawah ini.
-
-```
-<img src="images/dashboard.jpg" width="100%">
-```
-
-atau cukup drag & drop gambar dashboard ke README GitHub.
-
----
-
 # 📌 Insight yang Dapat Diperoleh
 
 Dashboard ini dapat digunakan untuk memperoleh berbagai insight bisnis, antara lain:
@@ -186,7 +174,7 @@ Dashboard ini dapat membantu proses pengambilan keputusan bisnis, seperti:
 ```
 Retail-Sales-Dashboard/
 │
-├── Dashboard.pbix
+├── Retail Sales.pbix
 ├── README.md
 └── images
     └── dashboard.png
